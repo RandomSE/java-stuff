@@ -1,0 +1,2 @@
+To use this, you compile it, run it, choose a difficulty
+Then, guess the number until you get it right. You can then choose to save your score or not. You can then see all your saved scores, and can choose to play again.
